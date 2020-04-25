@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HappyApp</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up_phase">Don\'t have an account? Create now! </string>
+    <string name="signup">SignUp</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create">Create</string>
+    <string name="hyperlink_login">Already have an account? Just Login!</string>
+    <string name="select">Select</string>
+</resources>

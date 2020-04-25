@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96854660218",
+    "firebase_url": "https://happyapp-dd630.firebaseio.com",
+    "project_id": "happyapp-dd630",
+    "storage_bucket": "happyapp-dd630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96854660218:android:772999f00d3d8b074157c3",
+        "android_client_info": {
+          "package_name": "com.dynamicdudes.happyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96854660218-jevk3ou9mi5konf1k9un9nsbqgv7ugag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt3aVFiIczZI_onIdgOmUrSh7m8PxLalI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96854660218-jevk3ou9mi5konf1k9un9nsbqgv7ugag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
